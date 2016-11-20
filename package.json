@@ -7,5 +7,8 @@
     "node": ">=0.10.0"
   },
   "dependencies": {
+      "request": "latest",
+      "express": "latest",
+      "socket.io-client": "latest"
   }
 }
